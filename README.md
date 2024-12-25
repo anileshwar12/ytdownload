@@ -15,7 +15,7 @@ YTDownload is a simple and fast YouTube video downloader built with Python and t
 3. Download the compiled `.exe` file for Windows (if you don't want to run it through Python).
    You can download the latest release from the link below:
 
-   [Download YTDownload.exe](./dist/YTDownload.exe)
+   [Download YTDownload.exe](https://github.com/anileshwar12/ytdownload/raw/refs/heads/main/dist/ytdownload.exe)
 
 ### Requirements
 
